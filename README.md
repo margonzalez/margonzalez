@@ -15,6 +15,6 @@ I'm a software engineer based in Buenos Aires. I enjoy reading about systems des
 
 
 ---
-<div align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=margonzalez.visitor-badge" /></div>
+<div align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=margonzalez.visitor-badge" /></div>
 
 

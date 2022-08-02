@@ -7,7 +7,7 @@ I'm a software engineer based in Buenos Aires. I enjoy reading about systems des
 <br/>
 
 ### :mailbox_with_no_mail: How to reach me
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](martingonzalez_89@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ml-gonzalez/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:martingonzalez_89@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ml-gonzalez/)
 
 
 

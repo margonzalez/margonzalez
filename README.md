@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=35&duration=4750&color=501F9C&background=ADD9FF00&center=true&vCenter=true&width=1000&height=150&lines=Hi+there%2C+I'm+Martin+%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg)
 ### :ok_man: About me 
-I'm a software engineer based in Buenos Aires. I enjoy reading about systems design. Currently I'm learning how to build robust yet simple backends with [rust :crab:](https://www.rust-lang.org/)
+I'm a software engineer based in Buenos Aires. I enjoy reading about systems design. Currently I'm learning how to build robust yet simple backends with [rust](https://www.rust-lang.org/) :crab:
 
 <br/>
 
@@ -10,8 +10,11 @@ I'm a software engineer based in Buenos Aires. I enjoy reading about systems des
 
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 ---
+<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=margonzalez.visitor-badge" /></div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=margonzalez.visitor-badge)
 
